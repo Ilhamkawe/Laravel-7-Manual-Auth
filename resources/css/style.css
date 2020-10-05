@@ -1,0 +1,27 @@
+*{
+    padding : 0;
+    margin : 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    /* background-color : blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align : center;
+}
+
+.container input {
+    width : 100%;
+    padding : 1rem;
+    margin : 20px 0px;
+}
+
+.container button {
+    width : 100%;
+    padding: 1rem;
+    margin : 20px 0px;
+} 
